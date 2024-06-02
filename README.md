@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Thamer and I'm a developer, from Tunisia</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thamer-souelmi.thamer-souelmi" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Souelmi+Thamer!;" />
+</h1>
 
 ###
 <h3 align="center">A passionate developer from Tunisia</h3>
