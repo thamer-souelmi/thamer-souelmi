@@ -1,6 +1,14 @@
 <h2 align="left">Hi 👋! My name is Thamer and I'm a developer, from Tunisia</h2>
 
 ###
+<h3 align="center">A passionate developer from Tunisia</h3>
+
+- 🌱 I’m currently learning **react,node.js**
+
+- 💬 Ask me about **spring boot , angular,symfony**
+
+- 📫 How to reach me **thamersouelmi10@gmail.com**
+  ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thamer-souelmi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
