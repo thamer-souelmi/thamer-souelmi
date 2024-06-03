@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thamersouelmi10@gmail.com**
   ###
-
+ 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thamer-souelmi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thamer-souelmi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="150" src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
 ###
 
@@ -93,7 +93,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thamer-souelmi/thamer-souelmi/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thamer-souelmi/thamer-souelmi/output/snake.svg" />
   
   <br/><br/><br/>
 </div>
