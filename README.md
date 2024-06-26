@@ -7,7 +7,7 @@
 ###
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **react,node.js**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **spring boot , angular,symfony**
 
